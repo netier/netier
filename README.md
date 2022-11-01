@@ -1,2 +1,3 @@
+![Alt text][def]
 
-<img src="main.svg" width="400" alt="css-in-readme">
+[def]: https://rootcore.ml/effective/css/images/02.png
