@@ -30,5 +30,5 @@ I'm software developer from Russia
 <img src="icons/ts.png" width="40px" alt="TS">
 <img src="icons/sass.png" width="40px" alt="SASS">
 <img src="icons/php.png" height="40px" alt="PHP">
-<img src="icons/sql.png" height="40px" alt="SQL">
+<img src="icons/sql.png" height="40px" alt="sql">
 </div>
