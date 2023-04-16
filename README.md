@@ -7,7 +7,7 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=netier&style=flat-square&color=blue" alt=""/>
     <br><br>
-    <h2>✨ Welcome to my GitHub ✨</h2>
+    <h2>Welcome to my GitHub</h2>
 </div>
 
 ## 📑 About me
